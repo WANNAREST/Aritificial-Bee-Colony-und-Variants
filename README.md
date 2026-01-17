@@ -189,15 +189,16 @@ Project thuộc về mục đích học tập và nghiên cứu. Vui lòng tríc
 
 ---
 
-## 👤 Tác Giả
+## 👥 Tác Giả
 
-**Nguyễn Minh Quân**  && **Lương Qúy Hiếu**
-📧 Contact: 
-<br>
-+ [GitHub Profile](https://github.com/WANNAREST)
-<br>
-+ [GitHub Profile](https://github.com/HieuLuong1)
----
+| Thành viên | GitHub Profile |
+|------------|----------------|
+| **Nguyễn Minh Quân** | [![GitHub](https://img.shields.io/badge/GitHub-WANNAREST-181717?style=flat&logo=github)](https://github.com/WANNAREST) |
+| **Lương Quý Hiếu** | [![GitHub](https://img.shields.io/badge/GitHub-HieuLuong1-181717?style=flat&logo=github)](https://github.com/HieuLuong1) |
+
+📧 **Contact:**
+- Nguyễn Minh Quân: [@WANNAREST](https://github.com/WANNAREST)
+- Lương Quý Hiếu: [@HieuLuong1](https://github.com/HieuLuong1)
 
 ## 🌟 Acknowledgments
 
