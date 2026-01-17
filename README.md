@@ -167,9 +167,7 @@ C = 1.5           # Tham số GABC (thay đổi: 1.0, 2.0)
 - Zhu & Kwong (2010). "Gbest-guided artificial bee colony algorithm"
 
 ### Hybrid Beamforming
-- Paper gốc: "Near-Field Wideband Hybrid Beamforming with TTD and PS" (tên chi tiết xem trong notebook)
-- Focus: THz communication, ELAA, Near-field channel model
-
+- Paper gốc: "Beamfocusing Optimization for Near-Field Wideband Multi-User Communications"
 ---
 
 
