@@ -8,7 +8,7 @@
 
 ## 📖 Tổng Quan
 
-Repository này chứa implementation của thuật toán **Artificial Bee Colony (ABC)** và các biến thể cải tiến của nó, áp dụng vào bài toán tối ưu hóa trong truyền thông không dây, cụ thể là:
+Repo này chứa cách cài đặt của thuật toán **Artificial Bee Colony (ABC)** và các biến thể cải tiến của nó, áp dụng vào bài toán tối ưu hóa trong truyền thông không dây, cụ thể là:
 
 - **Bài toán:** Hybrid Beamforming cho hệ thống MIMO lớn (Extremely Large Antenna Arrays - ELAA) trong môi trường trường gần (Near-field) ở băng tần Terahertz
 - **Mục tiêu:** Tối ưu hóa Sum-Rate (tổng tốc độ truyền) cho multi-user downlink
