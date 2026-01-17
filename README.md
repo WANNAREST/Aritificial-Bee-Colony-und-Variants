@@ -191,9 +191,12 @@ Project thuộc về mục đích học tập và nghiên cứu. Vui lòng tríc
 
 ## 👤 Tác Giả
 
-**WANNAREST**  
-📧 Contact: [GitHub Profile](https://github.com/WANNAREST)
-
+**Nguyễn Minh Quân**  && **Lương Qúy Hiếu**
+📧 Contact: 
+<br>
++ [GitHub Profile](https://github.com/WANNAREST)
+<br>
++ [GitHub Profile](https://github.com/HieuLuong1)
 ---
 
 ## 🌟 Acknowledgments
