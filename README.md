@@ -1,4 +1,4 @@
-# Thuật Toán Bầy Ong Nhân Tạo (Artificial Bee Colony) và Các Biến Thể
+# Thuật Toán Bầy Ong Nhân Tạo (Artificial Bee Colony), Các Biến Thể và ỨNG DỤNG TRONG BÀI TOÁN HỘI TỤ CHÙM TIA
 
  **Báo cáo code cho Project Kỹ Thuật Truyền Thông**
 
