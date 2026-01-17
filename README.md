@@ -202,4 +202,4 @@ Project thuộc về mục đích học tập và nghiên cứu. Vui lòng tríc
 
 ## 🌟 Acknowledgments
 
-- Cảm ơn thầy Trịnh Văn Chiến, anh Nguyễn Quang Đông, anh Vũ Minh Quân đã hướng dẫn bọn em hoàn thiện bài tập lớn này
+Cảm ơn thầy Trịnh Văn Chiến, anh Nguyễn Quang Đông, anh Vũ Minh Quân đã hướng dẫn bọn em hoàn thiện bài tập lớn này.
